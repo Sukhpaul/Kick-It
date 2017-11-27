@@ -59,7 +59,6 @@
     "webpack": "^3.8.1"
   },
   "devDependencies": {
-    "chai-enzyme": "^0.8.0",
     "enzyme": "^3.2.0",
     "enzyme-adapter-react-16": "^1.1.0",
     "jsdom": "11.4.0",
